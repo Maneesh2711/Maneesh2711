@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Maneesh2711
 - 👀 I’m interested in ... UI/UX DESIGN
+- 🚀 Medium-Light Skin Tone Proficient in a wide range of full-stack technologies, including HTML, CSS, and JavaScript along with UI frameworks and Java,Spring Frameworks.
 - 🌱 Technical Consultant @ PROFINCH
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ... maneeshraja750@gmail.com
