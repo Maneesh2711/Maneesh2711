@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maneesh2711
-- 👀 I’m interested in ... UI/UX DESIGN 
-- 🌱 I’m currently learning ...WEB DEVLEPMENT
+- 👀 I’m interested in ... UI/UX DESIGN
+- 🌱 Technical Consultant @ PROFINCH
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ... maneeshraja750@gmail.com
 
